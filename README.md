@@ -5,123 +5,129 @@ Data Analytics Bootcamp
 16 semanas | 36 alunas
 _____________________________________________________________________________________________________________________
 Módulo 1: Habilidades Essenciais	
-Aprendendo a aprender		
-Metodologias Ágeis	
-Fundamentos e Manifesto Ágil		
-Metodologia Scrum		
-Trabalhando com Kanban / Gestão do tempo		
-Curso EAD GitHub	
-Curso EAD Introdução a Cloud Computing	
-Vencendo crenças limitantes	
-Introdução ao SQL com MySQL: Manipule e consulte dados	
-Saiba instalar e acessar o banco de dados MySQL		
-Realize consultas com SELECT e filtre com WHERE		
-Adicionando dados no banco com o INSERT		
-Atualize e apague dados com UPDATE e DELETE		
-Ordene os seus dados usando o ORDER BY		
-Estruture suas tabelas com CREATE TABLE e ALTER TABLE		
-Aulão de SQL 1: Manipulação de Dados		
-Aulão de SQL 2: Manipulação de Dados		
-Consultas SQL: Avançando no SQL com MySQL	16	
-Pagine seus dados com LIMIT		
-Filtre consultas com HAVING		
-Entenda a diferença entre o LEFT e RIGHT JOIN		
-Saiba usar Sub-Queries		
-Use funções do MySQL		
-Agrupe dados com GROUP BY		
-Aulão de SQL 1: Queries avançadas		
-Aulão de SQL 2: Queries avançadas		
-Soft Skills: Habilidades para Impulsionar a sua carreira	
-Introdução à linguagem Python e Numpy	
-Entenda qual é o ambiente do cientista de dados		
-Aprenda as características da linguagem Python		
-Trabalhe com tipos, variáveis e expressões		
-Saiba como formatar a saída		
-Use e manipule listas para agrupar dados		
-Conheça a biblioteca NumPy		
+_____________________________________________________________________________________________________________________
+<br>Aprendendo a aprender		<br>
+Metodologias Ágeis	<br>
+Fundamentos e Manifesto Ágil		<br>
+Metodologia Scrum		<br>
+Trabalhando com Kanban / Gestão do tempo		<br>
+Curso EAD GitHub	<br>
+Curso EAD Introdução a Cloud Computing	<br>
+Vencendo crenças limitantes	<br>
+Introdução ao SQL com MySQL: Manipule e consulte dados	<br>
+Saiba instalar e acessar o banco de dados MySQL	<br>	
+Realize consultas com SELECT e filtre com WHERE		<br>
+Adicionando dados no banco com o INSERT		<br>
+Atualize e apague dados com UPDATE e DELETE		<br>
+Ordene os seus dados usando o ORDER BY		<br>
+Estruture suas tabelas com CREATE TABLE e ALTER TABLE		<br>
+Aulão de SQL 1: Manipulação de Dados		<br>
+Aulão de SQL 2: Manipulação de Dados		<br>
+Consultas SQL: Avançando no SQL com MySQL	16	<br>
+Pagine seus dados com LIMIT		<br>
+Filtre consultas com HAVING		<br>
+Entenda a diferença entre o LEFT e RIGHT JOIN		<br>
+Saiba usar Sub-Queries		<br>
+Use funções do MySQL		<br>
+Agrupe dados com GROUP BY		<br>
+Aulão de SQL 1: Queries avançadas		<br>
+Aulão de SQL 2: Queries avançadas		<br>
+Soft Skills: Habilidades para Impulsionar a sua carreira	<br>
+Introdução à linguagem Python e Numpy	<br>
+Entenda qual é o ambiente do cientista de dados		<br>
+Aprenda as características da linguagem Python	<br>	
+Trabalhe com tipos, variáveis e expressões		<br>
+Saiba como formatar a saída		<br>
+Use e manipule listas para agrupar dados		<br>
+Conheça a biblioteca NumPy		<br>
 _____________________________________________________________________________________________________________________
 Módulo 2: Python para Data Science	
-Meetup Time de Dados iFood	
-Python para Data Science: Funções, Pacotes e Pandas básico	
-Saiba como funcionam tuplas e listas		
-Conheça a biblioteca dos cientistas de dados: Pandas		
-Encapsule código em funções		
-Use pacotes para organizar o código		
-Trabalhe com Built-in Functions do Python		
-Aulão Python para Data Science		
-Python Pandas: Tratando e analisando dados	
-Importar dados e exportar dataframes		
-Limpando e tratar dados faltantes		
-Remover outliers e criar novas variáveis		
-Selecionar e gerar frequencias dos dados		
-Usar Python Pandas, Matplotlib, Jupyter e Anaconda		
-Challenge: Python Pandas		
+_____________________________________________________________________________________________________________________
+<br>Meetup Time de Dados iFood	<br>
+Python para Data Science: Funções, Pacotes e Pandas básico	<br>
+Saiba como funcionam tuplas e listas		<br>
+Conheça a biblioteca dos cientistas de dados: Pandas		<br>
+Encapsule código em funções		<br>
+Use pacotes para organizar o código		<br>
+Trabalhe com Built-in Functions do Python		<br>
+Aulão Python para Data Science		<br>
+Python Pandas: Tratando e analisando dados	<br>
+Importar dados e exportar dataframes		<br>
+Limpando e tratar dados faltantes		<br>
+Remover outliers e criar novas variáveis		<br>
+Selecionar e gerar frequencias dos dados		<br>
+Usar Python Pandas, Matplotlib, Jupyter e Anaconda		<br>
+Challenge: Python Pandas		<br>
 _____________________________________________________________________________________________________________________
 Módulo 3: Estatística e Modelos	
-Palestra Alura "O ágil e autogerenciamento na vida e no trabalho"	
-Estatística com Python parte 1: Frequências e Medidas	
-Entenda estatística e os números que você lida		
-Descubra a diferença entre média, mediana e moda na prática		
-Aprenda os tipos de dados e classifique-os		
-Saiba o que é a distribuição de frequência		
-Conheça a variância e o desvio padrão		
-Aulão: Frequências e Medidas	
-Challenge: Frequências e Medidas	
-Estatística com Python parte 2: Probabilidade e Amostragem	
-Entenda as distribuiçōes de binomial, poisson e normal		
-Saiba o que o nível e intervalo de confiança		
-Conheça técnicas de amostragem		
-Calcule o tamanho da amostra		
-Challenge: Probabilidade e Amostragem	
-Estatística com Python parte 3: Testes de hipóteses	
-Execute testes de normalidade		
-Saiba como calcular e usar o p-valor		
-Entenda as etapas de um teste		
-Use a distribuição t de Student e Qui-Quadrado		
-Aplique os testes para provar Hipóteses		
-Palestra Alura "Como criar e manter os melhores hábitos"	
-Estatística com Python parte 4: Correlação e Regressão	
-Entenda e use a regressão linear		
-Teste os resultados e analise os resíduos		
-Interprete da covariância		
-Aplique os seus conhecimentos no projeto		
-Aulão: Testes de hipóteses / Correlação e Regressão - Alura Tech	
-Challenge: Correlação e Regressão	
-Modelos Regressivos	
-Analises Preliminares		
-Variaveis explicativas vs Dependentes		
-Dados de treino e teste		
-Comparando Modelos		
-Aulao Revisao Modelos Regressivos		
-Challenge  Modelos Regressivos		
-Aulão: Probabilidade e Amostragem - Alura Tech	
+_____________________________________________________________________________________________________________________
+<br>	Palestra Alura "O ágil e autogerenciamento na vida e no trabalho"	<br>
+Estatística com Python parte 1: Frequências e Medidas	<br>
+Entenda estatística e os números que você lida		<br>
+Descubra a diferença entre média, mediana e moda na prática		<br>
+Aprenda os tipos de dados e classifique-os		<br>
+Saiba o que é a distribuição de frequência		<br>
+Conheça a variância e o desvio padrão		<br>
+Aulão: Frequências e Medidas	<br>
+Challenge: Frequências e Medidas	<br>
+Estatística com Python parte 2: Probabilidade e Amostragem	<br>
+Entenda as distribuiçōes de binomial, poisson e normal	<br>	
+Saiba o que o nível e intervalo de confiança		<br>	
+Conheça técnicas de amostragem		<br>	
+Calcule o tamanho da amostra		<br>	
+Challenge: Probabilidade e Amostragem	<br>	
+Estatística com Python parte 3: Testes de hipóteses	<br>	
+Execute testes de normalidade		<br>	
+Saiba como calcular e usar o p-valor		<br>	
+Entenda as etapas de um teste		<br>	
+Use a distribuição t de Student e Qui-Quadrado		<br>	
+Aplique os testes para provar Hipóteses		<br>	
+Palestra Alura "Como criar e manter os melhores hábitos"	<br>	
+Estatística com Python parte 4: Correlação e Regressão	<br>	
+Entenda e use a regressão linear		<br>	
+Teste os resultados e analise os resíduos		<br>	
+Interprete da covariância		<br>	
+Aplique os seus conhecimentos no projeto		<br>	
+Aulão: Testes de hipóteses / Correlação e Regressão - Alura Tech	<br>	
+Challenge: Correlação e Regressão	<br>	
+Modelos Regressivos	<br>	
+Analises Preliminares		<br>	
+Variaveis explicativas vs Dependentes		<br>	
+Dados de treino e teste		<br>	
+Comparando Modelos		<br>	
+Aulao Revisao Modelos Regressivos		<br>	
+Challenge  Modelos Regressivos		<br>	
+Aulão: Probabilidade e Amostragem - Alura Tech	<br>	
 _____________________________________________________________________________________________________________________
 Módulo 4: Visualização de Dados
-Fundamentos & PowerBI		
-Fundamentos de Visualização de Dados	
-Metodologia de OKR		
-Storytelling de Dados		
-Design de Gráficos		
-Tipos de Visualização		
-Melhores Práticas: Elementos, cores e acessibilidade		
-Construção de dashboards no PowerBI		
-Challenge: PowerBI		
-Meetup Time de Dados Gerdau	
-Palestra Alura "Jornada de desenvolvimento: um case de sucesso"	
-Excel		
-Excel I: Interface,  operações básicas e filtros	
-Excel II: Funções e Tabelas dinamicas 		
-Excel III: Dashboards e Simulações de Cenários		
-Challenge: Excel		
 _____________________________________________________________________________________________________________________
-Módulo 5: Computação em Nuvem	
-Revisão de Computação em Nuvem	
-Imersão em serviços de dados		
-Implementando um projeto de dados no Azure		
+<br>	Fundamentos & PowerBI		<br>	
+Fundamentos de Visualização de Dados	<br>	
+Metodologia de OKR		<br>	
+Storytelling de Dados		<br>	
+Design de Gráficos		<br>	
+Tipos de Visualização		<br>	
+Melhores Práticas: Elementos, cores e acessibilidade		<br>	
+Construção de dashboards no PowerBI		<br>	
+Challenge: PowerBI		<br>	
+Meetup Time de Dados Gerdau	<br>	
+Palestra Alura "Jornada de desenvolvimento: um case de sucesso"	<br>	
+Excel		<br>	
+Excel I: Interface,  operações básicas e filtros	<br>	
+Excel II: Funções e Tabelas dinamicas 	<br>		
+Excel III: Dashboards e Simulações de Cenários		<br>	
+Challenge: Excel		<br>	
 _____________________________________________________________________________________________________________________
-Módulo 6: Power Skills	
-Soft Skills	
-Criação de Currículo e LinkedIn		
-Preparação para Testes Técnicos		
-Preparação para Entrevistas de caso de uso		
-Storytelling para Entrevistas		
+Módulo 5: Computação em Nuvem
+_____________________________________________________________________________________________________________________
+<br>	Revisão de Computação em Nuvem	<br>	
+Imersão em serviços de dados		<br>	
+Implementando um projeto de dados no Azure		<br>	
+_____________________________________________________________________________________________________________________
+Módulo 6: Power Skills
+_____________________________________________________________________________________________________________________
+<br>	Soft Skills	<br>	
+Criação de Currículo e LinkedIn		<br>	
+Preparação para Testes Técnicos		<br>	
+Preparação para Entrevistas de caso de uso		<br>	
+Storytelling para Entrevistas		<br>	
