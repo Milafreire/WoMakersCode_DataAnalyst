@@ -6,7 +6,7 @@ Data Analytics Bootcamp
 _____________________________________________________________________________________________________________________
 Módulo 1: Habilidades Essenciais	
 _____________________________________________________________________________________________________________________
-<br>Aprendendo a aprender		<br>
+Aprendendo a aprender		<br>
 Metodologias Ágeis	<br>
 Fundamentos e Manifesto Ágil		<br>
 Metodologia Scrum		<br>
@@ -43,7 +43,7 @@ Conheça a biblioteca NumPy		<br>
 _____________________________________________________________________________________________________________________
 Módulo 2: Python para Data Science	
 _____________________________________________________________________________________________________________________
-<br>Meetup Time de Dados iFood	<br>
+Meetup Time de Dados iFood	<br>
 Python para Data Science: Funções, Pacotes e Pandas básico	<br>
 Saiba como funcionam tuplas e listas		<br>
 Conheça a biblioteca dos cientistas de dados: Pandas		<br>
@@ -61,7 +61,7 @@ Challenge: Python Pandas		<br>
 _____________________________________________________________________________________________________________________
 Módulo 3: Estatística e Modelos	
 _____________________________________________________________________________________________________________________
-<br>	Palestra Alura "O ágil e autogerenciamento na vida e no trabalho"	<br>
+Palestra Alura "O ágil e autogerenciamento na vida e no trabalho"	<br>
 Estatística com Python parte 1: Frequências e Medidas	<br>
 Entenda estatística e os números que você lida		<br>
 Descubra a diferença entre média, mediana e moda na prática		<br>
@@ -101,7 +101,7 @@ Aulão: Probabilidade e Amostragem - Alura Tech	<br>
 _____________________________________________________________________________________________________________________
 Módulo 4: Visualização de Dados
 _____________________________________________________________________________________________________________________
-<br>	Fundamentos & PowerBI		<br>	
+Fundamentos & PowerBI		<br>	
 Fundamentos de Visualização de Dados	<br>	
 Metodologia de OKR		<br>	
 Storytelling de Dados		<br>	
@@ -120,13 +120,13 @@ Challenge: Excel		<br>
 _____________________________________________________________________________________________________________________
 Módulo 5: Computação em Nuvem
 _____________________________________________________________________________________________________________________
-<br>	Revisão de Computação em Nuvem	<br>	
+Revisão de Computação em Nuvem	<br>	
 Imersão em serviços de dados		<br>	
 Implementando um projeto de dados no Azure		<br>	
 _____________________________________________________________________________________________________________________
 Módulo 6: Power Skills
 _____________________________________________________________________________________________________________________
-<br>	Soft Skills	<br>	
+Soft Skills	<br>	
 Criação de Currículo e LinkedIn		<br>	
 Preparação para Testes Técnicos		<br>	
 Preparação para Entrevistas de caso de uso		<br>	
